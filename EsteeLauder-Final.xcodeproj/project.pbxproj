@@ -11,6 +11,15 @@
 		F96138A02A56514600A8C757 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F961389F2A56514600A8C757 /* ContentView.swift */; };
 		F96138A22A56514700A8C757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96138A12A56514700A8C757 /* Assets.xcassets */; };
 		F96138A52A56514700A8C757 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96138A42A56514700A8C757 /* Preview Assets.xcassets */; };
+		F96138AC2A5652AE00A8C757 /* Page1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138AB2A5652AE00A8C757 /* Page1.swift */; };
+		F96138AE2A5652C500A8C757 /* Info.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138AD2A5652C500A8C757 /* Info.swift */; };
+		F96138B02A5652DD00A8C757 /* Ingredients.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138AF2A5652DD00A8C757 /* Ingredients.swift */; };
+		F96138B22A5652EE00A8C757 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138B12A5652EE00A8C757 /* Question.swift */; };
+		F96138B42A56530000A8C757 /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138B32A56530000A8C757 /* Products.swift */; };
+		F96138B62A56531000A8C757 /* CircularCream.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138B52A56531000A8C757 /* CircularCream.swift */; };
+		F96138B82A56532600A8C757 /* Essence.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138B72A56532600A8C757 /* Essence.swift */; };
+		F96138BA2A56533400A8C757 /* Airy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138B92A56533400A8C757 /* Airy.swift */; };
+		F96138BC2A56534700A8C757 /* Cleanser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96138BB2A56534700A8C757 /* Cleanser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +28,15 @@
 		F961389F2A56514600A8C757 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F96138A12A56514700A8C757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F96138A42A56514700A8C757 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F96138AB2A5652AE00A8C757 /* Page1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page1.swift; sourceTree = "<group>"; };
+		F96138AD2A5652C500A8C757 /* Info.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Info.swift; sourceTree = "<group>"; };
+		F96138AF2A5652DD00A8C757 /* Ingredients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredients.swift; sourceTree = "<group>"; };
+		F96138B12A5652EE00A8C757 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		F96138B32A56530000A8C757 /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
+		F96138B52A56531000A8C757 /* CircularCream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularCream.swift; sourceTree = "<group>"; };
+		F96138B72A56532600A8C757 /* Essence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Essence.swift; sourceTree = "<group>"; };
+		F96138B92A56533400A8C757 /* Airy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Airy.swift; sourceTree = "<group>"; };
+		F96138BB2A56534700A8C757 /* Cleanser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cleanser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +71,15 @@
 			children = (
 				F961389D2A56514600A8C757 /* EsteeLauder_FinalApp.swift */,
 				F961389F2A56514600A8C757 /* ContentView.swift */,
+				F96138AB2A5652AE00A8C757 /* Page1.swift */,
+				F96138AD2A5652C500A8C757 /* Info.swift */,
+				F96138AF2A5652DD00A8C757 /* Ingredients.swift */,
+				F96138B12A5652EE00A8C757 /* Question.swift */,
+				F96138B32A56530000A8C757 /* Products.swift */,
+				F96138B52A56531000A8C757 /* CircularCream.swift */,
+				F96138B72A56532600A8C757 /* Essence.swift */,
+				F96138B92A56533400A8C757 /* Airy.swift */,
+				F96138BB2A56534700A8C757 /* Cleanser.swift */,
 				F96138A12A56514700A8C757 /* Assets.xcassets */,
 				F96138A32A56514700A8C757 /* Preview Content */,
 			);
@@ -138,7 +165,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				F96138A02A56514600A8C757 /* ContentView.swift in Sources */,
+				F96138AE2A5652C500A8C757 /* Info.swift in Sources */,
 				F961389E2A56514600A8C757 /* EsteeLauder_FinalApp.swift in Sources */,
+				F96138B82A56532600A8C757 /* Essence.swift in Sources */,
+				F96138B62A56531000A8C757 /* CircularCream.swift in Sources */,
+				F96138B42A56530000A8C757 /* Products.swift in Sources */,
+				F96138BA2A56533400A8C757 /* Airy.swift in Sources */,
+				F96138B22A5652EE00A8C757 /* Question.swift in Sources */,
+				F96138B02A5652DD00A8C757 /* Ingredients.swift in Sources */,
+				F96138BC2A56534700A8C757 /* Cleanser.swift in Sources */,
+				F96138AC2A5652AE00A8C757 /* Page1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
